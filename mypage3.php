@@ -96,7 +96,7 @@
 <!--导航栏------------------------>
 <div class="manu">
     <ul>
-        <li ><a  href="mypage1.htm">个人信息</a></li>
+        <li ><a  href="index.html">个人信息</a></li>
         <li><a href="mypage2.htm">教程专栏</a></li>
         <li><a href="mypage3.php"style="color:rgb(135, 175, 175)">学习资料</a></li>
         </ul>
