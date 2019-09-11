@@ -7,7 +7,7 @@
         <meta name="Keywords" content="17020031073">
         <meta name="Description" content="计算机科学与技术2班">
         
-        <title>My House</title>
+        <title>Azhen的个人网页</title>
 
         <link rel="stylesheet" type="text/css" href="myhouse1.css" />
         <link rel="stylesheet" type="text/css" href="style.css" />
